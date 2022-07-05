@@ -6,8 +6,7 @@ I am a junior/graduate developer and I am open to new roles, please check out my
 
 ### Github repositories
 
-PHP:
-
+PHP:<br/>
 [web-app](https://github.com/davidobr/web-app)
 
 
