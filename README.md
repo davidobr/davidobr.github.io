@@ -11,4 +11,8 @@ PHP:<br/>
 <br/>
 [blog-app](https://github.com/davidobr/blog-app)
 
+### Fizzbuzz challenges
 
+Python:<br/>
+[python-fizzbuzz](https://github.com/davidobr/python-fizzbuzz)
+<br/>
