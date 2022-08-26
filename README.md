@@ -16,3 +16,5 @@ PHP:<br/>
 Python:<br/>
 [python-fizzbuzz](https://github.com/davidobr/python-fizzbuzz)
 <br/>
+Java:<br/>
+[java-fizzbuzz](https://github.com/davidobr/java-fizzbuzz)
