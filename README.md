@@ -13,6 +13,9 @@ PHP:<br/>
 <br/>
 [blog-app](https://github.com/davidobr/blog-app)
 
+Python:<br/>
+[meeting_scheduler](https://github.com/davidobr/meeting_scheduler)
+
 ### Fizzbuzz challenges
 
 Python:<br/>
