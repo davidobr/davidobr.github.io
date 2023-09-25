@@ -15,6 +15,8 @@ PHP:<br/>
 
 Python:<br/>
 [meeting_scheduler](https://github.com/davidobr/meeting_scheduler)
+<br/>
+[weather_app](https://github.com/davidobr/weather_app)
 
 ### Fizzbuzz challenges
 
