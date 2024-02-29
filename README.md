@@ -17,6 +17,8 @@ Python:<br/>
 [meeting_scheduler](https://github.com/davidobr/meeting_scheduler)
 <br/>
 [weather_app](https://github.com/davidobr/weather_app)
+<br/>
+[python_django_blog](https://github.com/davidobr/python_django_blog)
 
 ### Fizzbuzz challenges
 
