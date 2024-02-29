@@ -27,3 +27,7 @@ Python:<br/>
 <br/>
 Java:<br/>
 [java-fizzbuzz](https://github.com/davidobr/java-fizzbuzz)
+
+#### Please note
+All of these projects to some degree are WIP (excluding the fizzbuzz challenges). As I learn and grow as a developer I aim to continue to improve my projects.
+I would like to get the python ones hosted very soon, this is a WIP also and onces they're hosted I will be providing a link alongside the github repo link.
