@@ -16,7 +16,7 @@ PHP:<br/>
 Python:<br/>
 [meeting_scheduler](https://github.com/davidobr/meeting_scheduler)
 <br/>
-[weather_app](https://github.com/davidobr/weather_app)
+[weather_app](https://github.com/davidobr/weather_application) - [live site](https://davidobr.pythonanywhere.com/)
 <br/>
 [python_django_blog](https://github.com/davidobr/python_django_blog)
 
